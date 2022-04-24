@@ -1,11 +1,3 @@
-#######################################################
-# Name:       Michael Cunningham
-# Class:      CIS-2531-VCM01
-# Assignment: Homework 4
-# Instructor: Mohammad Morovati
-# Purpose:    Pyramid pattern
-######################################################
-
 A= ("PATTERN A")
 B= ("PATTERN B")
 PA= A.center(38)
